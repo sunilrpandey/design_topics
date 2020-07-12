@@ -1,2 +1,2 @@
-# design_principles
-short and simple programs to understand design patterns, solid principles etc
+# design_topics
+short and simple programs to understand design patterns, solid principles and other design topics
